@@ -52,10 +52,9 @@
 	white-space: nowrap;
 	text-align: left;
 	font-family: Inter;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 85px;
+	font-size: 60px;
 	color: rgba(0,12,75,1);
+	line-height: normal;
 }
 #img3 {
 	position: absolute;
