@@ -1,0 +1,346 @@
+
+	.mediaViewInfo {
+		--web-view-name: About me;
+		--web-view-id: About_me;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: About_me;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#About_me {
+		position: absolute;
+		width: 1920px;
+		height: 2558px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: About me;
+		--web-view-id: About_me;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Group_39 {
+		position: absolute;
+		width: 1920px;
+		height: 558px;
+		left: 0px;
+		top: 1997px;
+		overflow: visible;
+	}
+	#Rectangle_48 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_48 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 558px;
+		left: 0px;
+		top: 0px;
+	}
+	#Got_an_idea_Lets_chat {
+		left: 140px;
+		top: 133px;
+		position: absolute;
+		overflow: visible;
+		width: 524px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 45px;
+		color: rgba(0,12,75,1);
+	}
+	#Follow_me {
+		left: 863px;
+		top: 133px;
+		position: absolute;
+		overflow: visible;
+		width: 221px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 45px;
+		color: rgba(0,12,75,1);
+	}
+	#emlabassistancegmailcom {
+		left: 140px;
+		top: 245px;
+		position: absolute;
+		overflow: visible;
+		width: 471px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Telegraf;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(0,0,0,1);
+	}
+	#Instagram {
+		left: 863px;
+		top: 245px;
+		position: absolute;
+		overflow: visible;
+		width: 170px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Telegraf;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(0,0,0,1);
+	}
+	#ID351_964_386_564 {
+		left: 140px;
+		top: 308px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Telegraf;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(0,0,0,1);
+	}
+	#Facebook {
+		left: 863px;
+		top: 308px;
+		position: absolute;
+		overflow: visible;
+		width: 158px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Telegraf;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(0,0,0,1);
+	}
+	#LinkedIn {
+		left: 863px;
+		top: 371px;
+		position: absolute;
+		overflow: visible;
+		width: 142px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Telegraf;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(0,0,0,1);
+	}
+	#thanks {
+		position: absolute;
+		width: 359px;
+		height: 292px;
+		left: 1378px;
+		top: 127px;
+		overflow: visible;
+	}
+	#Rectangle_51 {
+		fill: rgba(247,255,250,1);
+	}
+	.Rectangle_51 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1867px;
+		left: 0px;
+		top: 130px;
+	}
+	#Get_to_know_me_ {
+		left: 917px;
+		top: 204px;
+		position: absolute;
+		overflow: visible;
+		width: 647px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 85px;
+		color: rgba(0,12,75,1);
+	}
+	#My_name_is_Emmanuel_Lopes_and_ {
+		left: 917px;
+		top: 359px;
+		position: absolute;
+		overflow: visible;
+		width: 864px;
+		white-space: nowrap;
+		line-height: 52px;
+		margin-top: -8.5px;
+		text-align: left;
+		font-family: Telegraf;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 28px;
+		color: rgba(0,12,75,1);
+	}
+	#Always_thinking_creatively_wit {
+		left: 140px;
+		top: 1453px;
+		position: absolute;
+		overflow: visible;
+		width: 718px;
+		white-space: nowrap;
+		line-height: 90px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 82px;
+		color: rgba(0,12,75,1);
+	}
+	#Rectangle_1 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 130px;
+		left: 0px;
+		top: 0px;
+	}
+	#Component_6__2 {
+		position: absolute;
+		width: 85px;
+		height: 34px;
+		left: 1472px;
+		top: 48px;
+		overflow: visible;
+	}
+	#Work {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 88px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#Component_5__2 {
+		position: absolute;
+		width: 135px;
+		height: 34px;
+		left: 1252px;
+		top: 48px;
+		overflow: visible;
+	}
+	#Services {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 140px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#Component_4__2 {
+		position: absolute;
+		width: 98px;
+		height: 34px;
+		left: 1072px;
+		top: 48px;
+		overflow: visible;
+	}
+	#About {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#Component_7__2 {
+		position: absolute;
+		width: 136px;
+		height: 34px;
+		left: 1638px;
+		top: 48px;
+		overflow: visible;
+	}
+	#Contact {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(0,0,0,1);
+		text-transform: uppercase;
+	}
+	#ID44C11544-BC4D-416D-89C4-FFD4 {
+		position: absolute;
+		width: 697px;
+		height: 753px;
+		left: 140px;
+		top: 215px;
+		overflow: visible;
+	}
+	#Path_175 {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 1.5px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_175 {
+		overflow: visible;
+		position: absolute;
+		width: 1921.041px;
+		height: 1.5px;
+		left: -0.5px;
+		top: 1997px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#EMLAB-logo-01 {
+		position: absolute;
+		width: 230px;
+		height: 79px;
+		left: 125px;
+		top: 26px;
+		overflow: visible;
+	}
